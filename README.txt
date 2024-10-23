@@ -1,5 +1,5 @@
 # Law Assistant Chatbot
-
+access the app : https://github.com/Sarath-peddireddy/ChatBot
 ## Overview
 The Law Assistant Chatbot is a Streamlit application designed to provide users with information about various Indian Penal Code (IPC) sections. It utilizes Natural Language Processing (NLP) techniques to understand user queries and retrieve relevant legal information, including offenses and their corresponding punishments.
 
